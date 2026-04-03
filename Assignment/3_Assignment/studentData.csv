@@ -1,0 +1,16 @@
+StudentID,Name,Gender ,Age ,Course,Marks,Attendance,City
+101,Asha,F,20,BCA,78,85,Ahmedabad
+102,Ravi,M,21,BSc,65,70,Surat
+103,Neha,F,19,BCA,88,90,Vadodara
+104,Aman,M,22,BCom,55,60,Rajkot
+105,Pooja,F,20,BSc,92,95,Ahmedabad
+106,Rahul,M,22,BCA,80,85,Delhi
+107,Sita,F,21,BSc,72,88,Chennai
+108,Vikram,M,23,BCom,90,91,Bangalore
+109,Priya,F,19,BCA,85,93,Hyderabad
+110,Karan,M,20,BSc,78,80,Pune
+111,Meera,F,21,BCom,60,70,Ahmedabad
+112,Arun,M,22,BCA,88,92,Mumbai
+113,Anjali,F,20,BSc,77,89,Kolkata
+114,Manoj,M,21,BCom,65,75,Surat
+115,Sneha,F,23,BCA,92,94,Vadodara
